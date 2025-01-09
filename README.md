@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Dipu</h1>
-<h3 align="center">i'm frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Dipu</h1>
+<h3 align="center">i'm Web developer</h3>
 <img  align="right" width= "400"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTl1dWE4Z2wzZXl5djY0dmVjajNveDk4OXZxN2xtNTNlcHNiY3VlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipu004&label=Profile%20views&color=0e75b6&style=flat" alt="dipu004" /> </p>
